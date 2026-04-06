@@ -1,0 +1,7 @@
+node_modules/
+.claude/
+
+# Arquivos de saída gerados pelo scraper
+index.html
+style.css
+script.js
